@@ -1,0 +1,1 @@
+# build-lighthouse-config-action
